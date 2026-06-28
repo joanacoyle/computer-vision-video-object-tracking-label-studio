@@ -2,7 +2,18 @@
 
 ## Overview
 
-This project demonstrates video object tracking using Label Studio for computer vision dataset creation. Objects were annotated across consecutive video frames using bounding boxes while maintaining consistent tracking and annotation quality.
+This project demonstrates video object tracking using Label Studio for computer vision dataset creation. Multiple objects were tracked across consecutive video frames using bounding box annotations while maintaining temporal consistency and annotation quality.
+
+The project includes three video tracking demonstrations, annotation screenshots, and exported JSON annotation data.
+
+---
+
+## Project Objectives
+
+- Perform accurate video object tracking.
+- Maintain consistent object identities across frames.
+- Review and correct tracking results.
+- Export annotations for machine learning workflows.
 
 ---
 
@@ -26,8 +37,33 @@ This project demonstrates video object tracking using Label Studio for computer 
 
 ---
 
-## Project Files
+# Video Demonstrations
 
-- Demo video
-- Annotation screenshots
-- JSON annotation export
+This repository contains three object tracking demonstrations showing different tracking sequences and quality assurance workflows.
+
+- **Video 1** – Object tracking demonstration
+- **Video 2** – Tracking consistency and refinement
+- **Video 3** – Final reviewed object tracking
+
+---
+
+# Screenshot Gallery
+
+The repository also includes screenshots documenting the annotation workflow from initialization through the completed object tracks.
+
+---
+
+# Annotation Export
+
+The exported JSON annotation file is included to demonstrate the machine-readable output generated during the annotation process.
+
+---
+
+# Skills Developed
+
+- Computer Vision
+- Video Annotation
+- Object Tracking
+- Dataset Quality Assurance
+- Annotation Export
+- Machine Learning Dataset Preparation
