@@ -67,3 +67,43 @@ The exported JSON annotation file is included to demonstrate the machine-readabl
 - Dataset Quality Assurance
 - Annotation Export
 - Machine Learning Dataset Preparation
+
+## Screenshot Gallery
+
+### Video 1
+
+![Video 1 - Screenshot 1](object.tracking.video1.screenshot.1.png)
+
+![Video 1 - Screenshot 2](object.tracking.video1.screenshot.2.png)
+
+![Video 1 - Screenshot 3](object.tracking.video1.screenshot.3.png)
+
+![Video 1 - Screenshot 4](object.tracking.video1.screenshot.4.png)
+
+![Video 1 - Screenshot 5](object.tracking.video1.screenshot.5.png)
+
+---
+
+### Video 2
+
+![Video 2 - Screenshot 1](object.tracking.video2.screenshot.1.png)
+
+![Video 2 - Screenshot 2](object.tracking.video2.screenshot.2.png)
+
+![Video 2 - Screenshot 3](object.tracking.video2.screenshot.3.png)
+
+![Video 2 - Screenshot 4](object.tracking.video2.screenshot.4.png)
+
+---
+
+### Video 3
+
+![Video 3 - Screenshot 1](object.tracking.video3.screenshot.1.png)
+
+![Video 3 - Screenshot 2](object.tracking.video3.screenshot.2.png)
+
+![Video 3 - Screenshot 3](object.tracking.video3.screenshot.3.png)
+
+![Video 3 - Screenshot 4](object.tracking.video3.screenshot.4.png)
+
+![Video 3 - Screenshot 5](object.tracking.video3.screenshot.5.png)
