@@ -43,27 +43,27 @@ This repository contains three object tracking demonstrations showing different 
 
 ### 🎥 Video 1 – Object Tracking Demonstration
 
-[▶️ Watch Video 1](videos/object.tracking.video1.video.mov)
+[▶️ Watch Video 1](videos/object.tracking.video1.video.mp4)
 
 ### 🎥 Video 2 – Tracking Consistency & Refinement
 
-[▶️ Watch Video 2](videos/object.tracking.video2.video.mov)
+[▶️ Watch Video 2](videos/object.tracking.video2.video.mp4)
 
 ### 🎥 Video 3 – Final Reviewed Object Tracking
 
-[▶️ Watch Video 3](videos/object.tracking.video3.video.mov)
+[▶️ Watch Video 3](videos/object.tracking.video3.video.mp4)
 
 ---
 
 # Annotation Export
 
-The exported annotation file is available below.
+The exported JSON annotation file contains the machine-readable tracking data generated in Label Studio and can be used for machine learning workflows.
 
 📄 [View JSON Export](exports/Computer%20Vision%20Video%20Object%20Tracking%20%E2%80%93%20Label%20Studio.json)
 
 ---
 
-# Skills Developed
+# Key Skills Demonstrated
 
 - Computer Vision
 - Video Annotation
@@ -72,7 +72,11 @@ The exported annotation file is available below.
 - Annotation Export
 - Machine Learning Dataset Preparation
 
+---
+
 ## Screenshot Gallery
+
+The following screenshots document the complete annotation workflow, including object initialization, frame-by-frame tracking, quality review, and the final annotated results for each demonstration video.
 
 ### Video 1
 
