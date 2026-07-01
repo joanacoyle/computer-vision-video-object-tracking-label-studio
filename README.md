@@ -57,7 +57,9 @@ This repository contains three object tracking demonstrations showing different 
 
 # Annotation Export
 
-The exported JSON annotation file is included to demonstrate the machine-readable output generated during the annotation process.
+The exported annotation file is available below.
+
+📄 [View JSON Export](exports/Computer%20Vision%20Video%20Object%20Tracking%20%E2%80%93%20Label%20Studio.json)
 
 ---
 
