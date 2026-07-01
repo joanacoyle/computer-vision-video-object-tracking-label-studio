@@ -41,15 +41,17 @@ The project includes three video tracking demonstrations, annotation screenshots
 
 This repository contains three object tracking demonstrations showing different tracking sequences and quality assurance workflows.
 
-- **Video 1** – Object tracking demonstration
-- **Video 2** – Tracking consistency and refinement
-- **Video 3** – Final reviewed object tracking
+### 🎥 Video 1 – Object Tracking Demonstration
 
----
+[▶️ Watch Video 1](videos/object.tracking.video1.video.mov)
 
-# Screenshot Gallery
+### 🎥 Video 2 – Tracking Consistency & Refinement
 
-The repository also includes screenshots documenting the annotation workflow from initialization through the completed object tracks.
+[▶️ Watch Video 2](videos/object.tracking.video2.video.mov)
+
+### 🎥 Video 3 – Final Reviewed Object Tracking
+
+[▶️ Watch Video 3](videos/object.tracking.video3.video.mov)
 
 ---
 
@@ -72,38 +74,38 @@ The exported JSON annotation file is included to demonstrate the machine-readabl
 
 ### Video 1
 
-![Video 1 - Screenshot 1](object.tracking.video1.screenshot.1.png)
+![Video 1 - Screenshot 1](screenshots/object.tracking.video1.screenshot.1.png)
 
-![Video 1 - Screenshot 2](object.tracking.video1.screenshot.2.png)
+![Video 1 - Screenshot 2](screenshots/object.tracking.video1.screenshot.2.png)
 
-![Video 1 - Screenshot 3](object.tracking.video1.screenshot.3.png)
+![Video 1 - Screenshot 3](screenshots/object.tracking.video1.screenshot.3.png)
 
-![Video 1 - Screenshot 4](object.tracking.video1.screenshot.4.png)
+![Video 1 - Screenshot 4](screenshots/object.tracking.video1.screenshot.4.png)
 
-![Video 1 - Screenshot 5](object.tracking.video1.screenshot.5.png)
+![Video 1 - Screenshot 5](screenshots/object.tracking.video1.screenshot.5.png)
 
 ---
 
 ### Video 2
 
-![Video 2 - Screenshot 1](object.tracking.video2.screenshot.1.png)
+![Video 2 - Screenshot 1](screenshots/object.tracking.video2.screenshot.1.png)
 
-![Video 2 - Screenshot 2](object.tracking.video2.screenshot.2.png)
+![Video 2 - Screenshot 2](screenshots/object.tracking.video2.screenshot.2.png)
 
-![Video 2 - Screenshot 3](object.tracking.video2.screenshot.3.png)
+![Video 2 - Screenshot 3](screenshots/object.tracking.video2.screenshot.3.png)
 
-![Video 2 - Screenshot 4](object.tracking.video2.screenshot.4.png)
+![Video 2 - Screenshot 4](screenshots/object.tracking.video2.screenshot.4.png)
 
 ---
 
 ### Video 3
 
-![Video 3 - Screenshot 1](object.tracking.video3.screenshot.1.png)
+![Video 3 - Screenshot 1](screenshots/object.tracking.video3.screenshot.1.png)
 
-![Video 3 - Screenshot 2](object.tracking.video3.screenshot.2.png)
+![Video 3 - Screenshot 2](screenshots/object.tracking.video3.screenshot.2.png)
 
-![Video 3 - Screenshot 3](object.tracking.video3.screenshot.3.png)
+![Video 3 - Screenshot 3](screenshots/object.tracking.video3.screenshot.3.png)
 
-![Video 3 - Screenshot 4](object.tracking.video3.screenshot.4.png)
+![Video 3 - Screenshot 4](screenshots/object.tracking.video3.screenshot.4.png)
 
-![Video 3 - Screenshot 5](object.tracking.video3.screenshot.5.png)
+![Video 3 - Screenshot 5](screenshots/object.tracking.video3.screenshot.5.png)
